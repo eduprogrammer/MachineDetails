@@ -1,0 +1,1 @@
+A simple Python program that returns the details of your current operating system and machine.
